@@ -2,6 +2,10 @@
 
 ## Prerequisite
 
+### Windows
+
+[Download Openssh](https://github.com/PowerShell/Win32-OpenSSH/releases/)
+
 ### Garuda Linux 
 
 ```
