@@ -3,7 +3,7 @@
 
 ## ArchLinux
 
-````
+```
 pacman -S ccid opensc
 systemctl start pcscd.service
 pcsc_scan
