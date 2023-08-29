@@ -6,6 +6,12 @@
 
 [Download Openssh](https://github.com/PowerShell/Win32-OpenSSH/releases/)
 
+### Debian
+
+```
+sudo apt install libfido2-1 libfido2-dev libfido2-doc fido2-tools
+```
+
 ### Garuda Linux 
 
 ```
